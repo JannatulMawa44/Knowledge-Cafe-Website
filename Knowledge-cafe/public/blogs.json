@@ -1,0 +1,53 @@
+[
+   {
+     "id": "1",
+     "cover": "https://i.ibb.co/NCyyDQc/marvin-meyer-SYTO3xs06f-U-unsplash.jpg",
+     "title": "The Secret Garden",
+     "author": "Frances Hodgson Burnett",
+     "author_img": "https://i.ibb.co/hMhXrs8/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+     "posted_date": "2024-04-30",
+     "reading_time": "30 minutes",
+     "hashtags": ["fiction", "classics", "gardens"]
+   },
+   {
+     "id": "2",
+     "cover": "https://i.ibb.co/1TrR8pK/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+     "title": "To Kill a Mockingbird",
+     "author": "Harper Lee",
+     "author_img": "https://i.ibb.co/r5HD9QL/bruce-mars-8-YG31-Xn4d-Sw-unsplash.jpg",
+     "posted_date": "2024-04-29",
+     "reading_time": "45 minutes",
+     "hashtags": ["fiction", "classics", "race"]
+   },
+   {
+     "id": "3",
+     "cover": "https://i.ibb.co/5WsDw4m/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+     "title": "The Great Gatsby",
+     "author": "F. Scott Fitzgerald",
+     "author_img": "https://i.ibb.co/Vw10yrR/brooke-cagle-No-Rsy-Xm-HGp-I-unsplash.jpg",
+     "posted_date": "2024-04-28",
+     "reading_time": "40 minutes",
+     "hashtags": ["fiction", "classics", "wealth"]
+   },
+   {
+     "id": "4",
+     "cover": "https://i.ibb.co/5nZS0Dg/daria-nepriakhina-x-Y55b-L5m-ZAM-unsplash.jpg",
+     "title": "Pride and Prejudice",
+     "author": "Jane Austen",
+     "author_img": "https://i.ibb.co/5n9DhV3/shipman-northcutt-sg-ZX15-Da8-YE-unsplash.jpg",
+     "posted_date": "2024-04-27",
+     "reading_time": "35 minutes",
+     "hashtags": ["fiction", "classics", "romance"]
+   },
+   {
+     "id": "5",
+     "cover": "https://i.ibb.co/2njpw6X/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
+     "title": "1984",
+     "author": "George Orwell",
+     "author_img": "https://example.com/author5.jpg",
+     "posted_date": "2024-04-26",
+     "reading_time": "50 minutes",
+     "hashtags": ["fiction", "dystopian", "politics"]
+   }
+ ]
+ 
